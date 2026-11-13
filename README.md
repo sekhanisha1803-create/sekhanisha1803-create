@@ -67,18 +67,6 @@ An AI-powered platform designed to help job seekers improve their resumes and fi
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 <div align="center">
 
 ### ✨ Code. Learn. Build. Repeat.
@@ -88,6 +76,7 @@ An AI-powered platform designed to help job seekers improve their resumes and fi
 **Thanks for visiting my profile! 💙**
 
 </div>
+
 
 
 <div align="center">
